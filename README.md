@@ -89,4 +89,4 @@ If the program does not run, try the following:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2023 iamalion
+Copyright (c) 2023 Eva Kemp
